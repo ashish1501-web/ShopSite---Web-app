@@ -19,5 +19,5 @@ install all these dependencies through npm install command:
   }
 }
 
-To run the project:
+Enter thr command to run the project:
 npm start
